@@ -1,2 +1,5 @@
 # Terraform internals
 .terraform*
+*tfstate*
+# Git internals
+*.swp
