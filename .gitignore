@@ -3,3 +3,5 @@
 *tfstate*
 # Git internals
 *.swp
+# Confidential
+terraform.tfvars
