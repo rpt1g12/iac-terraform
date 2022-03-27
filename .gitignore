@@ -4,4 +4,4 @@
 # Git internals
 *.swp
 # Confidential
-terraform.tfvars
+terraform.auto.tfvars
